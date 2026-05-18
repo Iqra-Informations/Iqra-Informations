@@ -64,7 +64,7 @@
 ### 📈 Real-Time Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iqra-Informations&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;icon_color=00F0FF&amp;title_color=00F0FF&amp;text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iqra-Informations&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=00F0FF&amp;fire=00F0FF&amp;currStreakNum=FFFFFF" alt="GitHub Streak" width="48%" />
+  
 </div>
 <br/>
 <div align="center">
