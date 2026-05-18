@@ -1,4 +1,4 @@
-<!-- ⌨️ TEKS MENGETIK OTOMATIS (TYPING ANIMATION) -->
+<!--  TEKS MENGETIK OTOMATIS (TYPING ANIMATION) -->
 <div align="center">
 
 [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Muh.+Iqra+Ramadhan;Informatics+Engineering+Graduate;Web+Developer+%26+IT+Support;Data+%26+Big+Data+Enthusiast;Crypto+Analyst+%26+Algo-Trader)](https://github.com/Iqra-Informations)
@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠️ Arsenal & Tech Stack
+###  Arsenal & Tech Stack
 <div align="center">
   <p><strong>Languages & Core Technologies</strong></p>
   <a href="https://skillicons.dev">
@@ -26,7 +26,7 @@
 
 ---
 
-### 🏆 GitHub Trophies (Dinamis)
+###  GitHub Trophies (Dinamis)
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Iqra-Informations&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" alt="Trophies" />
@@ -35,21 +35,19 @@
 
 ---
 
-### 📈 Real-Time Statistics
+###  Real-Time Statistics
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iqra-Informations&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=00F0FF&title_color=00F0FF&text_color=FFFFFF)](https://github.com/Iqra-Informations)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iqra-Informations&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=FFFFFF)](https://github.com/Iqra-Informations)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Iqra-Informations&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=00F0FF&title_color=00F0FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iqra-Informations&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=FFFFFF" alt="GitHub Streak" width="48%" />
+</div>
 <br/>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iqra-Informations&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&hide_empty=true)](https://github.com/Iqra-Informations)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqra-Informations&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&hide_empty=true" alt="Top Languages" width="50%" />
 </div>
 
 ---
 
-### 🐍 Contribution Activity (Animated Snake)
+### Contribution Activity (Animated Snake)
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iqra-Informations/Iqra-Informations/output/github-contribution-grid-snake-dark.svg">
@@ -60,7 +58,7 @@
 
 ---
 
-### 🌐 Let's Connect
+###  Let's Connect
 <div align="center">
   <a href="https://tiktok.com/@dua.tiga179" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" />
