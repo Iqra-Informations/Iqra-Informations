@@ -1,8 +1,23 @@
-<!-- 🌟 HEADER BANNER ANIMASI -->
+<!-- ⌨️ TEKS MENGETIK OTOMATIS (TYPING ANIMATION) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Coding GIF" width="100%" style="border-radius: 15px;" />
+
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Muh.+Iqra+Ramadhan;Informatics+Engineering+Graduate;Web+Developer+%26+IT+Support;Data+%26+Big+Data+Enthusiast;Crypto+Analyst+%26+Algo-Trader)](https://github.com/Iqra-Informations)
+
 </div>
 
+---
+
+### 📈 Real-Time Statistics
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iqra-Informations&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=00F0FF&title_color=00F0FF&text_color=FFFFFF)](https://github.com/Iqra-Informations)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iqra-Informations&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=FFFFFF)](https://github.com/Iqra-Informations)
+
+<br/>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iqra-Informations&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&hide_empty=true)](https://github.com/Iqra-Informations)
+
+</div>
 <br/>
 
 <!-- ⌨️ TEKS MENGETIK OTOMATIS (TYPING ANIMATION) -->
@@ -18,17 +33,6 @@
 
 ---
 
-### 🚀 About My Journey
-<img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer Animation" />
-
-- 🎓 **Background:** Informatics Engineering graduate from Universitas DIPA Makassar.
-- 💻 **Focus:** Building modern interfaces (HTML, CSS, Tailwind) and exploring scalable deployments (Vercel).
-- 📊 **Data & AI:** Deep diving into Big Data ecosystems (ingestion, processing, cleaning datasets) and integrating AI tools.
-- ⚡ **Hardware/IoT:** Developing smart input devices utilizing **ESP32-S3** with Speech-to-Text (STT) and Voice Command integration for administrative efficiency.
-- 📈 **Financial Tech:** Applying analytical skills (EMA 10/30/100, RSI) to cryptocurrency markets, with a strong interest in building adaptive, AI-driven automated trading systems.
-- 🎯 **Current Goal:** Open to dynamic roles as a **Website Developer** or **IT Support** while building systems that bridge software, hardware, and data analytics.
-
-<br/>
 
 ---
 
