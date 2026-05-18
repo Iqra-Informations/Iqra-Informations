@@ -8,7 +8,7 @@
 <!-- ⌨️ TEKS MENGETIK OTOMATIS (TYPING ANIMATION) -->
 <div align="center">
   <a href="https://github.com/Iqra-Informations">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Muh.+Iqra+Ramadhan+Hidayat+👋;Informatics+Engineering+Graduate+🎓;Web+Developer+%26+IT+Support+💻;Data+Engineering+%26+Big+Data+Enthusiast+📊;Crypto+Market+Analyst+%26+Algo-Trader+📈" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;pause=1000&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Hi+there!+I'm+Muh.+Iqra+Ramadhan;Informatics+Engineering+Graduate;Web+Developer+%26+IT+Support;Data+%26+Big+Data+Enthusiast;Crypto+Analyst+%26+Algo-Trader" alt="Typing Animation" />
   </a>
 </div>
 
@@ -59,12 +59,12 @@
 
 ### 📈 Real-Time Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iqra-Informations&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=00F0FF&title_color=00F0FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iqra-Informations&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=FFFFFF" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Iqra-Informations&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;icon_color=00F0FF&amp;title_color=00F0FF&amp;text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iqra-Informations&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=00F0FF&amp;fire=00F0FF&amp;currStreakNum=FFFFFF" alt="GitHub Streak" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqra-Informations&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqra-Informations&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F0FF&amp;text_color=FFFFFF&amp;hide_empty=true" alt="Top Languages" width="50%" />
 </div>
 
 ---
